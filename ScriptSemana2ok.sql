@@ -1,4 +1,5 @@
-DROP DATABASE IF EXISTS Semana2;
+-- ejemplo Semana 2 
+DROP DATABASE IF EXISTS Semana2 ;
 CREATE database Semana2;
 use Semana2;
 
